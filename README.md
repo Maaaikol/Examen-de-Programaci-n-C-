@@ -1,6 +1,6 @@
 ## EXAMEN PROGRAMACIÓN CPP
 
-LINK REPOSITORIO:
+LINK REPOSITORIO: https://github.com/Maaaikol/Examen-de-Programaci-n-C-.git
 
 # Enunciados del Examen de Programación en C++
 Estimado estudiante,
