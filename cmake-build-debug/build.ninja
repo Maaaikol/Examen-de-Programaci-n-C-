@@ -77,6 +77,13 @@ build CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_3/PromedioNotas.cpp.obj
   OBJECT_DIR = CMakeFiles\Examen_de_Programaci_n_C_.dir
   OBJECT_FILE_DIR = CMakeFiles\Examen_de_Programaci_n_C_.dir\EJERCICIO_3
 
+build CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_4/Promoción3por2.cpp.obj: CXX_COMPILER__Examen_de_Programaci_n_C__unscanned_Debug C$:/Users/micha/Desktop/EXAMEN$ DE$ PROGRAMACIÓN/Examen-de-Programaci-n-C-/EJERCICIO$ 4/Promoción3por2.cpp || cmake_object_order_depends_target_Examen_de_Programaci_n_C_
+  DEP_FILE = CMakeFiles\Examen_de_Programaci_n_C_.dir\EJERCICIO_4\Promoción3por2.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/micha/Desktop/EXAMEN DE PROGRAMACIÓN/Examen-de-Programaci-n-C-/."
+  OBJECT_DIR = CMakeFiles\Examen_de_Programaci_n_C_.dir
+  OBJECT_FILE_DIR = CMakeFiles\Examen_de_Programaci_n_C_.dir\EJERCICIO_4
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Examen_de_Programaci_n_C_
@@ -85,7 +92,7 @@ build CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_3/PromedioNotas.cpp.obj
 #############################################
 # Link the executable Examen_de_Programaci_n_C_.exe
 
-build Examen_de_Programaci_n_C_.exe: CXX_EXECUTABLE_LINKER__Examen_de_Programaci_n_C__Debug CMakeFiles/Examen_de_Programaci_n_C_.dir/main.cpp.obj CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_1/identificador.cpp.obj CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_2/semanas.cpp.obj CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_3/PromedioNotas.cpp.obj
+build Examen_de_Programaci_n_C_.exe: CXX_EXECUTABLE_LINKER__Examen_de_Programaci_n_C__Debug CMakeFiles/Examen_de_Programaci_n_C_.dir/main.cpp.obj CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_1/identificador.cpp.obj CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_2/semanas.cpp.obj CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_3/PromedioNotas.cpp.obj CMakeFiles/Examen_de_Programaci_n_C_.dir/EJERCICIO_4/Promoción3por2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Examen_de_Programaci_n_C_.dir

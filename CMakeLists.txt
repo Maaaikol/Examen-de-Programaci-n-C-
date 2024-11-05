@@ -20,4 +20,6 @@ add_executable(Examen_de_Programaci_n_C_
         "EJERCICIO 2/semanas.h"
         "EJERCICIO 2/semanas.cpp"
         "EJERCICIO 3/PromedioNotas.h"
-        "EJERCICIO 3/PromedioNotas.cpp")
+        "EJERCICIO 3/PromedioNotas.cpp"
+        "EJERCICIO 4/Promoción3por2.h"
+        "EJERCICIO 4/Promoción3por2.cpp")
