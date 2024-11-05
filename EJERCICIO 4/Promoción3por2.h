@@ -7,9 +7,7 @@
 
 
 
-class Promoción3por2 {
-
-};
+void Promocion3por2();
 
 
 
